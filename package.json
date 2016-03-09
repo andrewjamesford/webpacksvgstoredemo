@@ -1,0 +1,17 @@
+{
+  "name": "WebpackSVGStoreDemo",
+  "version": "1.0.0",
+  "description": "A demo for testing webpack svgstore plugin",
+  "main": "App/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "webpack": "^1.12.14",
+    "webpack-svgstore-plugin": "^2.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Ford",
+  "license": "ISC"
+}
